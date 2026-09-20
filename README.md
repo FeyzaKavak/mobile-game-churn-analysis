@@ -59,3 +59,7 @@ Avoid aggressive monetization during the early progression phase. Instead, test 
 
 ## Conclusion
 The data identifies **Levels 2–4 as a key retention area requiring further investigation**. Prioritizing improvements to early-game progression and validating them through A/B testing can help determine which design changes meaningfully reduce churn. Monetization initiatives should complement the player experience rather than create additional friction during the early game.
+
+<img width="1015" height="618" alt="dashboard" src="https://github.com/user-attachments/assets/059c4a92-8380-4b2e-b274-4f17f471373d" />
+
+
